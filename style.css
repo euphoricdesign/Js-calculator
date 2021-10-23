@@ -101,6 +101,7 @@ section {
       .display {
           padding: 17px;
           font-size: 28px;
+          height: 150px;
       }
       .display-1 {
           margin-bottom: 7px;
