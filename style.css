@@ -83,8 +83,9 @@ section {
   }
 
   @media screen and (max-width: 500px) {
-      .calculator {
-          height: 100vh;
+
+      .all_button {
+        height: 560px;
       }
       section {
           background: none;
@@ -94,7 +95,7 @@ section {
           border-radius: 0px;
       }
       .button {
-          height: 80px;
+          height: 100%;
           font-size: 25px;
       }
       .display {
