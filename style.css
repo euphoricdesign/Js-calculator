@@ -83,10 +83,6 @@ section {
   }
 
   @media screen and (max-width: 500px) {
-
-      .all_button {
-        height: 100vh;
-      }
       section {
           background: none;
       }
@@ -99,10 +95,14 @@ section {
           font-size: 25px;
       }
       .display {
-          padding: 17px;
+          height: 15vh;
           font-size: 28px;
+          padding: 10px;
       }
       .display-1 {
           margin-bottom: 7px;
+      }
+      .all_button {
+        height: 85vh;
       }
   }
