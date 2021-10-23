@@ -84,7 +84,7 @@ section {
 
   @media screen and (max-width: 500px) {
       .calculator {
-          height: 496px;
+          height: 100vh;
       }
       section {
           background: none;
