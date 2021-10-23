@@ -85,7 +85,7 @@ section {
   @media screen and (max-width: 500px) {
 
       .all_button {
-        height: 580px;
+        height: 100vh;
       }
       section {
           background: none;
